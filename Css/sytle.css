@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: darkgrey;
+}
+.container{
+    width: 900px;
+    margin:auto;
+   
+}
+.img{
+    text-align: center;
+    width: 890px;
+}
+img{
+    width: 890px;
+    height: 400px;
+
+}
+.blogs{
+    border:5px solid aquamarine;
+    margin:10px 0px;
+    border-radius: 10px;
+}
+/* p{
+    padding: 25px;
+    color:azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1{
+    font-weight: bolder;
+    background-color:antiquewhite;
+    padding:8px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+} */
